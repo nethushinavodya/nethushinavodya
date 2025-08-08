@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nethushi Navodya!
+# 👋 Hi, I'm Nethushi Navodya! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nethushinavodya&color=blue)
 
@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethushinavodya&show_icons=true&theme=dark&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethushinavodya&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethushinavodya&show_icons=true&theme=dark&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethushinavodya&layout=compact&theme=dark) 
 
 ---
 
