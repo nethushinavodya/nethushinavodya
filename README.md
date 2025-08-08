@@ -24,7 +24,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot) ![Servlets](https://img.shields.io/badge/-Java_Servlets-orange) ![JSP](https://img.shields.io/badge/-JSP-red)  
 
 **Tools & Platforms:**  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellij-idea) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellij-idea) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
